@@ -1,0 +1,1 @@
+global type KongPluginSessionData = {string, string, {string}}

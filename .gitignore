@@ -1,0 +1,8 @@
+# servroot is typically the nginx/Kong workingdirectory when testing
+servroot
+
+# packed distribution format for LuaRocks
+*.rock
+
+# build output here.
+kong/*
